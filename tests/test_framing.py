@@ -1,4 +1,5 @@
 import pytest
+
 from pi_protocol.framing import (
     DEFAULT_MAX_FRAME_LENGTH,
     FRAME_HEADER_LENGTH,

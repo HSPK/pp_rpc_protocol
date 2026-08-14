@@ -8,6 +8,7 @@ implementation.
 from __future__ import annotations
 
 import pytest
+
 from pi_protocol.cbor import (
     DEFAULT_MAX_CBOR_BYTE_LENGTH,
     CborError,

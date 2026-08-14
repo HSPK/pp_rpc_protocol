@@ -6,6 +6,7 @@ import json
 from typing import Any
 
 import pytest
+
 from pi_protocol import (
     PROTOCOL_VERSION,
     ClientMessageDecoder,

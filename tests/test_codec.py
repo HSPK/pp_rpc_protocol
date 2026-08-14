@@ -1,4 +1,5 @@
 import pytest
+
 from pi_protocol.codec import (
     ClientMessageDecoder,
     ProtocolValidationError,

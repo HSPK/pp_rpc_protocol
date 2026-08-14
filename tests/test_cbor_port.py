@@ -12,6 +12,7 @@ import math
 from typing import Any
 
 import pytest
+
 from pi_protocol.cbor import (
     DEFAULT_MAX_CBOR_BYTE_LENGTH,
     DEFAULT_MAX_CBOR_CONTAINER_LENGTH,
